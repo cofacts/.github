@@ -18,7 +18,7 @@ Cofacts operates on a **hybrid human-AI model**:
 Cofacts began as a **g0v (零時政府)** civic tech project — Taiwan's renowned open-source community where citizens build tools for public good.
 
 ### Evolution
-- **2016–2024**: Volunteer-driven community project supported by the **Open Culture Foundation (OCF)** 
+- **2016–**: Volunteer-driven community project supported by the **Open Culture Foundation (OCF)** 
 
 ## Impact
 
