@@ -19,7 +19,6 @@ Cofacts began as a **g0v (零時政府)** civic tech project — Taiwan's renown
 
 ### Evolution
 - **2016–2024**: Volunteer-driven community project supported by the **Open Culture Foundation (OCF)** 
-- **2024 onwards**: Transitioned into a **formal non-profit association**, with co-founder **Billion Lee (比鄰)** leading organizational development to ensure sustainable operations
 
 ## Impact
 
