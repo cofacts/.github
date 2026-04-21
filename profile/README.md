@@ -8,9 +8,9 @@
 
 Cofacts operates on a **hybrid human-AI model**:
 
-- **24/7 Chatbot Response**: Users can forward suspicious messages, images, or URLs to the LINE chatbot for instant preliminary responses
-- **Crowd-Sourced Verification**: A community of volunteers researches and fact-checks submitted content
-- **Open Database**: All fact-check reports are publicly accessible, creating a transparent knowledge base
+- **24/7 Chatbot Response**: Users can forward suspicious messages, images, or URLs to the LINE chatbot for instant preliminary responses.
+- **Crowd-Sourced Verification**: A community of volunteers researches and fact-checks submitted content.
+- **Open Database**: All fact-check reports are publicly accessible, creating a transparent knowledge base.
 
 ## Organizational Structure
 
@@ -38,4 +38,4 @@ Cofacts has become a critical infrastructure in Taiwan's information ecosystem, 
 ## Resources
 
 - **Website**: [cofacts.tw](https://en.cofacts.tw)
-- **Community**: [g0v.tw](https://g0v.tw) — Taiwan's civic tech network
+- **Community**: [g0v.tw](https://g0v.tw) — Taiwan's civic tech network.
